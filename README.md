@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paarthh2812
-- 👀 I’m interested in Python Machine Learning & Artificial Intelligence
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 👀 I’m interested in Robotics, Python & ML
+- 🌱 I’m currently learning Robotics
+- 💞️ I’m looking to collaborate on Robotics Projects
 - 📫 Mail on paarthh28@gmail.com
 
 <!---
